@@ -1,0 +1,3 @@
+# Il gioco contiene nomi e foto di persone reali: fuori dai motori di ricerca.
+User-agent: *
+Disallow: /
