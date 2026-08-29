@@ -5,7 +5,7 @@
 
    ⚠️ OGNI VOLTA CHE AGGIORNI IL GIOCO, CAMBIA IL NUMERO QUI SOTTO.
    Senza quel cambio i telefoni continuano a servire la versione vecchia. */
-const VERSIONE = 'acquario-v7';
+const VERSIONE = 'acquario-v8';
 
 const GUSCIO = [
   './', './index.html', './manifest.json',
