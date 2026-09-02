@@ -2,7 +2,7 @@
 
    ⚠️ QUANDO AGGIORNI IL GIOCO, CAMBIA IL NUMERO QUI SOTTO,
    e cambia anche VERSIONE_GIOCO in index.html. */
-const VERSIONE = 'acquario-v22';
+const VERSIONE = 'acquario-v26';
 
 const GUSCIO = [
   './', './index.html', './manifest.json',
